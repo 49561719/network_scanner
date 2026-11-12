@@ -1,5 +1,5 @@
-name: network_scanner_ali_bakar
-description: Professional Network Scanner App by Ali Bakar.
+name: network_scanner
+description: فاحص الشبكة المتقدم - علي بكر
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,11 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  network_info_plus: ^5.0.1
-  ping_discover_network_fork: ^2.0.1
-  dart_ping: ^9.0.0
-  permission_handler: ^11.3.1
-  cupertino_icons: ^1.0.6
+  network_info_plus: ^5.0.0
+  permission_handler: ^11.3.0
 
 dev_dependencies:
   flutter_test:
